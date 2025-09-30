@@ -56,9 +56,9 @@
 }
 
 .home-bg .banner-image img {
-    width: 70%;
-    height: 20%;
-    margin-left: 50px;
+    width: 100%;
+    height: 40%;
+    margin-left: 10px;
 }
 
 .home-bg .banner-content {
